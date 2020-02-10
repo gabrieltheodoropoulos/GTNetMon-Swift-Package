@@ -1,11 +1,11 @@
-# GTNetMon-Swift-Package
+# GTNetMon Swift Package
 
 ### Integrate network monitoring capabilities in Swift projects! 
 
 ![Platform iOS](https://img.shields.io/badge/Platform-iOS-informational)
 ![Platform macOS](https://img.shields.io/badge/Platform-macOS-informational)
-![Language](https://img.shields.io/github/languages/top/gabrieltheodoropoulos/GTNetMon.svg?color=orange)
-![License](https://img.shields.io/cocoapods/l/GTNetMon.svg)
+![Language](https://img.shields.io/badge/Language-Swift-orange)
+![License](https://img.shields.io/github/license/gabrieltheodoropoulos/GTRest.svg)
 
 ## About
 
@@ -17,7 +17,7 @@ GTNetMon is a lightweight Swift library that detects whether a device is connect
 
 To integrate `GTNetMon` into your projects follow the next steps:
 
-1. Copy the repository URL to GitHub (it can be found by clicking on the *Clone or Download* button).
+1. Copy the repository's URL to GitHub (it can be found by clicking on the *Clone or Download* button).
 2. Open your project in Xcode.
 3. Go to menu **File > Swift Packages > Add Package Dependency...**.
 4. Paste the URL, select the package when it appears and click Next.

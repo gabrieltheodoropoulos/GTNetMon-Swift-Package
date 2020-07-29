@@ -125,3 +125,11 @@ class ViewController: UIViewController {
 In iOS >= 12.0, the new `Network` framework of the iOS SDK is used to retrieve network information. In older iOS versions, `SCNetworkReachability` API is used instead.
 
 
+## Version
+
+Current up-to-date version is 1.0.3.
+
+
+## License
+
+GTNetMon is licensed under the MIT license.
